@@ -1,0 +1,2 @@
+# rudens
+Pirmais veidotais repozitorijs 
